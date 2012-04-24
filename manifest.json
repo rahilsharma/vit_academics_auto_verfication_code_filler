@@ -1,0 +1,11 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "rs.png"
+   },
+   "description": "automaticaly fills verification code from the academics page ........author:lihar sharma     website:www.lihars.tk",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDtNwwaCdLLvF8zd/yJFG+mKsMED3Fer/R8iL2/MGJUT1vntr9fT6JfKxOn1m/dBZIwrapyUwTRQGrFDeJ1sP4Nnb6F5yzs/qVODE9Ks1U0Xf36OEWPuWsQUwgZwRUicWt0fkOI7nmv9Wka10w2gDSO+cM/BEPlRg4fmIG+b6CnDQIDAQAB",
+   "name": "acad_cap_fill_rs",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "version": "1.0"
+}
